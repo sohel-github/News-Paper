@@ -1,0 +1,40 @@
+a:link{
+    color:#444;
+}
+
+a:hover{
+    color:#156;
+}
+
+a, .uk-link {
+    color: #444;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.uk-navbar-nav > li > a:hover{
+    cursor: pointer;
+}
+
+.thumb{
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#dept{
+    margin-top:10px;
+}
+
+.title{
+    padding:7px 0px;
+    font:bold 17px Arial;
+    color: green;
+    border-top: 1px dashed #c8c6c6;
+    border-bottom: 1px dashed #c8c6c6;
+}
+
+
+#footer{
+    width:100%;
+}

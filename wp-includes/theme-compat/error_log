@@ -1,0 +1,5 @@
+[14-Sep-2014 03:47:08 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/theme-compat/sidebar.php on line 10
+[15-Sep-2014 13:40:00 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/theme-compat/footer.php on line 10
+[17-Sep-2014 23:45:27 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/theme-compat/comments-popup.php on line 10
+[23-Sep-2014 01:43:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/theme-compat/comments.php on line 10
+[24-Sep-2014 21:38:34 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/theme-compat/header.php on line 10

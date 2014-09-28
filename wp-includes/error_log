@@ -1,0 +1,62 @@
+[11-Sep-2014 19:34:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/general-template.php on line 1626
+[11-Sep-2014 23:37:31 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/rss.php on line 19
+[11-Sep-2014 23:37:33 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/taxonomy.php on line 129
+[12-Sep-2014 05:23:00 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/aponalo/public_html/wp-includes/shortcodes.php on line 410
+[12-Sep-2014 09:25:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/functions.php on line 8
+[12-Sep-2014 09:25:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/functions.php on line 8
+[12-Sep-2014 09:25:20 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/functions.php on line 8
+[12-Sep-2014 19:56:02 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/aponalo/public_html/wp-includes/default-filters.php on line 17
+[13-Sep-2014 07:43:29 UTC] PHP Fatal error:  Class 'Walker' not found in /home/aponalo/public_html/wp-includes/comment-template.php on line 1563
+[13-Sep-2014 13:47:21 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/class-snoopy.php on line 6
+[13-Sep-2014 21:50:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/admin-bar.php on line 48
+[13-Sep-2014 21:50:15 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/class-simplepie.php on line 5
+[13-Sep-2014 21:50:15 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/class-simplepie.php on line 5
+[13-Sep-2014 21:50:15 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/class-simplepie.php on line 5
+[13-Sep-2014 23:54:01 UTC] PHP Fatal error:  Class 'Walker' not found in /home/aponalo/public_html/wp-includes/category-template.php on line 893
+[14-Sep-2014 01:32:36 UTC] PHP Fatal error:  Class 'Walker' not found in /home/aponalo/public_html/wp-includes/nav-menu-template.php on line 16
+[14-Sep-2014 03:47:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/author-template.php on line 471
+[14-Sep-2014 05:40:05 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/aponalo/public_html/wp-includes/media.php on line 769
+[14-Sep-2014 11:57:06 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-atom-comments.php on line 8
+[14-Sep-2014 17:39:03 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/aponalo/public_html/wp-includes/update.php on line 651
+[14-Sep-2014 21:27:25 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/rss-functions.php on line 8
+[15-Sep-2014 15:49:27 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/aponalo/public_html/wp-includes/class.wp-scripts.php on line 19
+[15-Sep-2014 21:45:46 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/aponalo/public_html/wp-includes/vars.php on line 23
+[16-Sep-2014 00:02:52 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/registration-functions.php on line 7
+[16-Sep-2014 03:45:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/canonical.php on line 556
+[16-Sep-2014 21:41:58 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/aponalo/public_html/wp-includes/ms-default-filters.php on line 17
+[17-Sep-2014 00:10:45 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/script-loader.php on line 25
+[17-Sep-2014 00:10:45 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/script-loader.php on line 25
+[17-Sep-2014 00:10:45 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/script-loader.php on line 25
+[17-Sep-2014 05:50:48 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/aponalo/public_html/wp-includes/class-wp-embed.php on line 26
+[17-Sep-2014 05:50:49 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/aponalo/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[17-Sep-2014 15:53:01 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/aponalo/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[17-Sep-2014 23:45:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/theme.php on line 679
+[18-Sep-2014 03:49:27 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/class-feed.php on line 4
+[18-Sep-2014 03:49:27 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/class-feed.php on line 4
+[18-Sep-2014 07:58:13 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/post.php on line 167
+[18-Sep-2014 12:10:27 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/aponalo/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[19-Sep-2014 01:14:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/aponalo/public_html/wp-includes/class.wp-styles.php on line 19
+[19-Sep-2014 03:41:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/ms-functions.php on line 2064
+[20-Sep-2014 13:45:14 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/aponalo/public_html/wp-includes/template-loader.php on line 28
+[20-Sep-2014 19:44:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/ms-default-constants.php on line 153
+[20-Sep-2014 21:34:03 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-rss.php on line 8
+[21-Sep-2014 01:29:50 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/registration.php on line 7
+[21-Sep-2014 03:45:14 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-rss2.php on line 8
+[21-Sep-2014 08:08:07 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/aponalo/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[22-Sep-2014 03:52:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/kses.php on line 1428
+[22-Sep-2014 15:47:27 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-rdf.php on line 8
+[24-Sep-2014 09:45:47 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-atom.php on line 8
+[24-Sep-2014 13:40:15 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/aponalo/public_html/wp-includes/default-widgets.php on line 14
+[25-Sep-2014 01:33:48 UTC] PHP Fatal error:  Class 'Walker' not found in /home/aponalo/public_html/wp-includes/post-template.php on line 1232
+[25-Sep-2014 04:25:22 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/ms-settings.php on line 14
+[25-Sep-2014 04:25:22 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/ms-settings.php on line 14
+[25-Sep-2014 10:49:43 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 12:08:12 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/aponalo/public_html/wp-includes/template-loader.php on line 28
+[26-Sep-2014 07:41:53 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/aponalo/public_html/wp-includes/feed-rss2-comments.php on line 8
+[27-Sep-2014 11:44:37 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/general-template.php on line 1626
+[27-Sep-2014 16:06:50 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/aponalo/public_html/wp-includes/rss.php on line 19
+[27-Sep-2014 16:06:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/aponalo/public_html/wp-includes/taxonomy.php on line 129
+[28-Sep-2014 01:45:27 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/aponalo/public_html/wp-includes/shortcodes.php on line 410
+[28-Sep-2014 05:32:46 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/functions.php on line 8
+[28-Sep-2014 05:32:46 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/aponalo/public_html/wp-includes/functions.php on line 8
+[28-Sep-2014 05:32:46 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aponalo/public_html/wp-includes/functions.php on line 8
